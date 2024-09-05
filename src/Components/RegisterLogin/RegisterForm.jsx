@@ -30,7 +30,7 @@ const RegisterForm = () => {
         <button type="submit">Register</button>
 
         <div className="login-link">
-          <p>Already have an account?<Link to="/login">Login</Link></p>
+          <p>Already have an account?<Link to="/">Login</Link></p>
         </div>
       </form>
     </div>
